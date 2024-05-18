@@ -1,3 +1,5 @@
+![image](https://github.com/VoltagedDebunked/Xenon-AI/assets/140754373/31779cc8-7fc2-4740-b58d-73ca47feacd6)
+
 # Xenon AI
 An AI model developed to learn and create 3D objects, based on a provided dataset, with high customizability and versatility.
 
